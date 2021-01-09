@@ -20,7 +20,7 @@ namespace xml_writer
         }
 
 
-        private void button1_Click(object sender, EventArgs e) //Добавление данных в форму
+        private void button1_Click(object sender, EventArgs e) //Добавление данных в форму лабораторной работы №6
         {
             if (textBox1.Text == "")
             {
